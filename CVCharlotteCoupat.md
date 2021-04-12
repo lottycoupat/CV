@@ -8,7 +8,9 @@
 	
 # Employment 
 
-**Alan Turing Institue** <p> *April 2021 - present* <P> Community Manager
+## Community Manager
+
+**Alan Turing Institue** <p> *April 2021 - present*
 
 Key Responsibilities:
 * Bridge communities associated with the AutSPACEs project to ensure collaboration
@@ -16,14 +18,18 @@ Key Responsibilities:
 * Ensure a wide variety of communications to account for different working styles 
 * Recording and distribute meeting outcomes and relevant resources 
 
-**Department for Education** <p> *October 2020-April 2021* <p> Delivery and Business Relationship Manager
+## Delivery and Business Relationship Manager
+
+**Department for Education** <p> *October 2020-April 2021* 
 
 Key Responsibilities:
 * Requirements gathering of enhancements from a wide range of key stakeholders of the end to end processes
 * Working in an Agile way to successfully implement new processes to reflect the new ways of working following COVID19
 * The deliver the develop and continous improvement of the Return to Office process from a technological perspective. Engaging with stakeholders from all workstreams (e.g. Communications, Estates, Commercial) to ensure success. 
 
-**Department for Business, Energy and Industrail Strategy** <p> *October 2019 - October 2020* <p> Business Change Manager
+## Business Change Manager
+
+**Department for Business, Energy and Industrail Strategy** <p> *October 2019 - October 2020*
 
 Key Responsibilities: 
 * Creation of the communications strategy and plan for the launch of new processes in the AS-IS Shared Services platform
@@ -33,13 +39,17 @@ Key Responsibilities:
 
 # Education 
 
-**University of Nottingam** <p> *Bachelor of Science Geography* 2i <p> September 2015 - July 2018 <p> 
+## University of Nottingham
+
+*Bachelor of Science Geography* 2i <p> September 2015 - July 2018 <p> 
 	
 * Focus on the Physical and Scientfic aspects of Geography
 * Speciality focus in Biogeography and Environmental Change
 * 1st in Disseration on the Sustainability of the Fishing Industry in the Pacific Ocean
 
-**Hockeril Anglo European College** <p> *International Baccelaureate* 36points <p> September 2013 - July 2015
+## Hockeril Anglo European College 
+
+*International Baccelaureate* 36points <p> September 2013 - July 2015
 
 * Higher Level: Geography (6), Biology (6), French (6) 
 * Standard Level: Mathematics (5), English (5), Anthropolgy (6) 
@@ -63,3 +73,7 @@ Treasurer 2016-2017
 ## Kings School, Tamil Nadu, India
 * 2 week volunteer work in Charity school teaching performing arts 
 * Dance lead - choreographing and teaching children ages 8-14 
+
+## Duke of Edinburgh Award
+
+Obtained both Silver and Bronze Award
